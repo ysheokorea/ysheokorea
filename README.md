@@ -40,7 +40,7 @@
 <hr />
 <br/>
 <h2 align="left" style="font-size:50px;">🚀️ Follow me 🚀️ </h2>  
-### **[https://about-tech.tistory.com](https://about-tech.tistory.com)**
+### [**https://about-tech.tistory.com**](https://about-tech.tistory.com)
 
 <br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysheokorea&show_icons=true&locale=en&layout=compact" alt="ysheokorea" /></p>
