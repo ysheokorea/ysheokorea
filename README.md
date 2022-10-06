@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Blockchain Backend Developer</h1>
 <h3 align="center">A passionate Blockchain Backend developer from Korea</h3>
 
-## **🌱 I’m currently learning **Blockchain, DEX, DID Smart Contract**
+## 🌱 I’m currently learning **Blockchain, DEX, DID Smart Contract**
 <br/>
 <hr />
 <br/>
@@ -39,7 +39,7 @@
 <br/>
 <hr />
 <br/>
-<h2 align="left" style="font-size:50px;">🚀️ Follow me 🚀️ </h2>
+<h2 align="left" style="font-size:50px;">🚀️ Follow me 🚀️ </h2>  
 ### **[https://about-tech.tistory.com](https://about-tech.tistory.com)**
 
 <br/><br/>
