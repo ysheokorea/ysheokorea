@@ -2,18 +2,13 @@
 <h3 align="center">A passionate Blockchain Backend developer from Korea</h3>
 
 
-
 - 🌱 I’m currently learning **Blockchain, DEX, DID Smart Contract**
-
-- 👨‍💻 All of my projects are available at [notion](notion)
 
 - 📝 I regularly write articles on [https://about-tech.tistory.com](https://about-tech.tistory.com)
 
-- 💬 Ask me about **Node.js, Javascript, Docker, Solidity**
+- 💬 Ask me about **Node.js, Javascript, Docker, Solidity and Blockchain**
 
 - 📫 How to reach me **ys.heo.korea@gmail.com**
-
-- 📄 Know about my experiences [notion](notion)
 
 - ⚡ Fun fact **I think I am coffee man**
 
